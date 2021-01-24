@@ -2,9 +2,20 @@
   "RSpec": {
     "coverage": {
       "/home/amusing-form-5349/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
-
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
     },
-    "timestamp": 1611517374
+    "timestamp": 1611517408
   }
 }
