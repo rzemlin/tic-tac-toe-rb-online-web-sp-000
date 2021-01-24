@@ -43,48 +43,6 @@ end
 
 def turn_count(board)
   counter = 0
-  board.each {|space|
-    if space == "X" || space == "O"
-      counter += 1   
-    end
-  }
-   counter
-end
-
-def turn_count(board)
-  # board.count{|token| token == "X" || token == "O"}
-
-  turns = 0
-  board.each do |token|
-    if token == "X" || token == "O"
-      turns += 1
-    end
-  end
-  turns
-
-def turn_count(board)
-  # board.count{|token| token == "X" || token == "O"}
-
-  turns = 0
-  board.each do |token|
-    if token == "X" || token == "O"
-      turns += 1
-    end
-  end
-  turns
-
-def turn_count(board)
-  # board.count{|token| token == "X" || token == "O"}
-
-  turns = 0
-  board.each do |token|
-    if token == "X" || token == "O"
-      turns += 1
-    end
-  end
-  
-def turn_count(board)
-  counter = 0
   board.each {|token|
     if token == "X" || token == "O"
       counter += 1   
